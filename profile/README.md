@@ -22,6 +22,3 @@
   </a>
     <img src="https://img.shields.io/website-up-down-green-red/https/api.hermodapp.com/health_check" />
 </div>
-
-# Project Architecture
-![Screen Shot 2021-10-15 at 12 41 57 PM](https://user-images.githubusercontent.com/5386772/137530222-27380ddb-e5f0-4adb-86e4-fa81abc2d74b.png)
