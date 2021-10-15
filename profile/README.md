@@ -8,8 +8,8 @@
 <br />
 <div align="center">
 <img src="https://img.shields.io/badge/Built%20With-5e81ac" />
-<img src="https://img.shields.io/badge/Rust-5e81ac?logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/React-5e81ac?logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=d5a789" />
+<img src="https://img.shields.io/badge/React-000000?logo=react&logoColor=82d7f7" />
 </div>
 
 <div align="center" markdown="1">
