@@ -25,3 +25,9 @@
     <img src="https://codecov.io/gh/hermodapp/api/branch/main/graph/badge.svg?token=KN4LKTZI0X"/>
   </a>
 </div>
+
+# Team Member Contributions
+[Simon and An](https://github.com/hermodapp/client/commits/main)
+[Russ and Jonathan](https://github.com/hermodapp/api/commits/main)
+[Russ](https://github.com/hermodapp/load_testing)
+[Russ](https://github.com/hermodapp/collector)
