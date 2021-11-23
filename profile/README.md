@@ -27,7 +27,7 @@
 </div>
 
 # Team Member Contributions
-[Simon and An](https://github.com/hermodapp/client/commits/main)
-[Russ and Jonathan](https://github.com/hermodapp/api/commits/main)
-[Russ](https://github.com/hermodapp/load_testing)
-[Russ](https://github.com/hermodapp/collector)
+- [Simon and An](https://github.com/hermodapp/client/commits/main)
+- [Russ and Jonathan](https://github.com/hermodapp/api/commits/main)
+- [Russ](https://github.com/hermodapp/load_testing)
+- [Russ](https://github.com/hermodapp/collector)
